@@ -4,7 +4,6 @@ public class examen_capell {
 	public static void main(String[] args) {
 		printOne();
 		printOne();
-		printTwo();
 		
 	}
 	public static void printOne() {
