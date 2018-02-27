@@ -15,4 +15,4 @@ public class examen_capell {
 	}
 
 }
-//.
+//
